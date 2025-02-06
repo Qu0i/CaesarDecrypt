@@ -22,7 +22,7 @@ int main() {
     printf("Decrypted text: %s\n", decrypted);
     free(decrypted);
 
-    printf("Press any key to exit...");
+    printf("Press Enter to exit...");
     getchar();
     // system("pause");
     return 0;
