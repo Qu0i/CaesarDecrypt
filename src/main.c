@@ -24,6 +24,5 @@ int main() {
 
     printf("Press Enter to exit...");
     getchar();
-    // system("pause");
     return 0;
 }
